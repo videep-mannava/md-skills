@@ -62,5 +62,15 @@ On GitHub, the same headings will appear at different sizes and the task markers
 | [Journal](../day-1.md) | Daily plans, code samples, and learning metrics |
 | [Project README](README.md) | Setup and usage instructions |
 
+## Contributing
 
+Open the GitHub repo online and please create a fork if you want to contribute. The course's action will check pull request made, not automated tests.
+
+## Support
+
+If you have any issues, open [our issues](https://github.com/videep-mannava/md-skills/issues) and include lesson number, attempted action, and error message.
+
+## License
+
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
 
