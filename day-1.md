@@ -18,6 +18,11 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 ## Learning Metrics
 
 I've been learning for $d_0$ days.
-Percentage of tasks completed: $$p=\frac{c}{t}$$
+Percentage of tasks completed:
+
+$$
+p=\frac{c}{t
+}$$
+
 $p$ is the percentage of tasks completed, $c$ is the number of tasks completed, $t$ is the total number of tasks.
 
