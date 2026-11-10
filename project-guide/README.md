@@ -3,6 +3,7 @@
 ## Overview
 
 Aperture is a software meant to help increase accessibility for desktop applications.
+It also now doubles as a journal.
 
 ## Features
 
@@ -33,3 +34,33 @@ cd skills-communicate-using-markdown
 Open `day-1.md` in your editor to confirm the journal is present. No build or dependency installation is required.
 
 ## Usage
+
+From the repo folder, display the journal MD in terminal with this command on the next line. On Windows PowerShell, use `Get-Content day-1.md` instead.
+
+```bash
+cat day-1.md
+```
+
+For formatted reading, open [the journal](../day-1.md) on GitHub and select Preview. You can check/uncheck tasks as well.
+
+## Expected output
+
+The terminal displays the source Markdown. But your title may differ from this shortened example:
+
+```text
+# Daily Learning
+
+## Morning Planning
+```
+
+On GitHub, the same headings will appear at different sizes and the task markers actually become checkboxes.
+
+## Project files
+
+| File | Purpose |
+| --- | --- |
+| [Journal](../day-1.md) | Daily plans, code samples, and learning metrics |
+| [Project README](README.md) | Setup and usage instructions |
+
+
+
