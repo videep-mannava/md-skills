@@ -21,8 +21,8 @@ I've been learning for $d_0$ days.
 Percentage of tasks completed:
 
 $$
-p=\frac{c}{t
-}$$
+p=\frac{c}{t}
+$$
 
 $p$ is the percentage of tasks completed, $c$ is the number of tasks completed, $t$ is the total number of tasks.
 
