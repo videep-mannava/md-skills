@@ -22,6 +22,8 @@ Aperture is a software meant to help increase accessibility for desktop applicat
 Must have either Windows Operating System, or Mac Silicon. Other OSs are not yet supported.
 
 ## Installation
+Please run these shell commands:
+
 ```bash
 git clone https://github.com/videep-mannava/skills-communicate-using-markdown.git
 cd skills-communicate-using-markdown
